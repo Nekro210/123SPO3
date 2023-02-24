@@ -1,0 +1,4 @@
+﻿  SPO33.cpp
+C:\Users\nz200\source\repos\SPO33\SPO33.cpp(163,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nz200\source\repos\SPO33\SPO33.cpp(249,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  SPO33.vcxproj -> C:\Users\nz200\source\repos\SPO33\x64\Debug\SPO33.exe
